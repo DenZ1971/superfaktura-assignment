@@ -1,5 +1,7 @@
 # PHP Developer Technical Assignment
 
+[![CI](https://github.com/DenZ1971/superfaktura-assignment/actions/workflows/ci.yml/badge.svg)](https://github.com/DenZ1971/superfaktura-assignment/actions/workflows/ci.yml)
+
 This repository contains my solutions for a PHP developer technical assignment.
 
 ## Project Structure
