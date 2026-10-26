@@ -69,6 +69,12 @@ The library may throw the following exceptions:
 vendor/bin/phpunit tests --testdox
 ```
 
+Run static analysis:
+
+```bash
+composer analyse
+```
+
 ## Project structure
 
 ```
@@ -90,6 +96,7 @@ tests/
 - DTO-based API
 - Custom exception hierarchy
 - PHPUnit 11 test suite
+- PHPStan 2 static analysis
 - Mock HTTP testing
 
 
